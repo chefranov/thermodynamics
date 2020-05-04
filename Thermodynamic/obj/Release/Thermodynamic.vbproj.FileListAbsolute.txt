@@ -1,0 +1,55 @@
+D:\Soft\Visual Studio 2015\projects\Thermodynamic\Thermodynamic\obj\Release\Thermodynamic.vbprojResolveAssemblyReference.cache
+D:\Soft\Visual Studio 2015\projects\Thermodynamic\Thermodynamic\obj\Release\Thermodynamic.vbproj.GenerateResource.Cache
+D:\Soft\Visual Studio 2015\projects\Thermodynamic\Thermodynamic\bin\Release\Thermodynamic.exe
+D:\Soft\Visual Studio 2015\projects\Thermodynamic\Thermodynamic\bin\Release\Thermodynamic.pdb
+D:\Soft\Visual Studio 2015\projects\Thermodynamic\Thermodynamic\bin\Release\Thermodynamic.xml
+D:\Soft\Visual Studio 2015\projects\Thermodynamic\Thermodynamic\obj\Release\Thermodynamic.About.resources
+D:\Soft\Visual Studio 2015\projects\Thermodynamic\Thermodynamic\obj\Release\Thermodynamic.forexcel.resources
+D:\Soft\Visual Studio 2015\projects\Thermodynamic\Thermodynamic\obj\Release\Thermodynamic.Form1.resources
+D:\Soft\Visual Studio 2015\projects\Thermodynamic\Thermodynamic\obj\Release\Thermodynamic.Help.resources
+D:\Soft\Visual Studio 2015\projects\Thermodynamic\Thermodynamic\obj\Release\Thermodynamic.Resources.resources
+D:\Soft\Visual Studio 2015\projects\Thermodynamic\Thermodynamic\obj\Release\Thermodynamic.exe
+D:\Soft\Visual Studio 2015\projects\Thermodynamic\Thermodynamic\obj\Release\Thermodynamic.xml
+D:\Soft\Visual Studio 2015\projects\Thermodynamic\Thermodynamic\obj\Release\Thermodynamic.pdb
+D:\Soft\Microsoft Visual Studio 14.0\projects\Thermodynamic\Thermodynamic\obj\Release\Thermodynamic.exe
+D:\Soft\Microsoft Visual Studio 14.0\projects\Thermodynamic\Thermodynamic\obj\Release\Thermodynamic.xml
+D:\Soft\Microsoft Visual Studio 14.0\projects\Thermodynamic\Thermodynamic\obj\Release\Thermodynamic.pdb
+D:\Soft\Microsoft Visual Studio 14.0\projects\Thermodynamic\Thermodynamic\bin\Release\Thermodynamic.exe
+D:\Soft\Microsoft Visual Studio 14.0\projects\Thermodynamic\Thermodynamic\bin\Release\Thermodynamic.pdb
+D:\Soft\Microsoft Visual Studio 14.0\projects\Thermodynamic\Thermodynamic\bin\Release\Thermodynamic.xml
+D:\Soft\Microsoft Visual Studio 14.0\projects\Thermodynamic\Thermodynamic\obj\Release\Thermodynamic.vbprojResolveAssemblyReference.cache
+D:\Soft\Microsoft Visual Studio 14.0\projects\Thermodynamic\Thermodynamic\obj\Release\Thermodynamic.About.resources
+D:\Soft\Microsoft Visual Studio 14.0\projects\Thermodynamic\Thermodynamic\obj\Release\Thermodynamic.forexcel.resources
+D:\Soft\Microsoft Visual Studio 14.0\projects\Thermodynamic\Thermodynamic\obj\Release\Thermodynamic.Form1.resources
+D:\Soft\Microsoft Visual Studio 14.0\projects\Thermodynamic\Thermodynamic\obj\Release\Thermodynamic.Help.resources
+D:\Soft\Microsoft Visual Studio 14.0\projects\Thermodynamic\Thermodynamic\obj\Release\Thermodynamic.Resources.resources
+D:\Soft\Microsoft Visual Studio 14.0\projects\Thermodynamic\Thermodynamic\obj\Release\Thermodynamic.vbproj.GenerateResource.Cache
+D:\Soft\Microsoft Visual Studio 14.0\projects\Thermodynamic\Thermodynamic\bin\Release\Thermodynamic.exe.config
+D:\Soft\Microsoft Visual Studio 14.0\projects\Thermodynamic\Thermodynamic\bin\Release\Thermodynamic.exe.manifest
+D:\Soft\Microsoft Visual Studio 14.0\projects\Thermodynamic\Thermodynamic\bin\Release\Thermodynamic.application
+D:\Soft\Microsoft Visual Studio 14.0\projects\Thermodynamic\Thermodynamic\obj\Release\Thermodynamic.exe.manifest
+D:\Soft\Microsoft Visual Studio 14.0\projects\Thermodynamic\Thermodynamic\obj\Release\Thermodynamic.application
+D:\Soft\Microsoft Visual Studio 14.0\projects\Thermodynamic\Thermodynamic\obj\Release\Thermodynamic.BaseEditor.resources
+E:\Others\Документы\Проекты VB.NET\Thermodynamics\Thermodynamic\Thermodynamic\bin\Release\Thermodynamic.exe.config
+E:\Others\Документы\Проекты VB.NET\Thermodynamics\Thermodynamic\Thermodynamic\obj\Release\Thermodynamic.exe
+E:\Others\Документы\Проекты VB.NET\Thermodynamics\Thermodynamic\Thermodynamic\obj\Release\Thermodynamic.xml
+E:\Others\Документы\Проекты VB.NET\Thermodynamics\Thermodynamic\Thermodynamic\obj\Release\Thermodynamic.pdb
+D:\Others\Документы\Проекты VB.NET\Thermodynamics\Thermodynamic\Thermodynamic\bin\Release\Thermodynamic.exe.config
+D:\Others\Документы\Проекты VB.NET\Thermodynamics\Thermodynamic\Thermodynamic\bin\Release\Thermodynamic.exe.manifest
+D:\Others\Документы\Проекты VB.NET\Thermodynamics\Thermodynamic\Thermodynamic\bin\Release\Thermodynamic.application
+D:\Others\Документы\Проекты VB.NET\Thermodynamics\Thermodynamic\Thermodynamic\bin\Release\Thermodynamic.exe
+D:\Others\Документы\Проекты VB.NET\Thermodynamics\Thermodynamic\Thermodynamic\bin\Release\Thermodynamic.pdb
+D:\Others\Документы\Проекты VB.NET\Thermodynamics\Thermodynamic\Thermodynamic\bin\Release\Thermodynamic.xml
+D:\Others\Документы\Проекты VB.NET\Thermodynamics\Thermodynamic\Thermodynamic\obj\Release\Thermodynamic.About.resources
+D:\Others\Документы\Проекты VB.NET\Thermodynamics\Thermodynamic\Thermodynamic\obj\Release\Thermodynamic.BaseEditor.resources
+D:\Others\Документы\Проекты VB.NET\Thermodynamics\Thermodynamic\Thermodynamic\obj\Release\Thermodynamic.forexcel.resources
+D:\Others\Документы\Проекты VB.NET\Thermodynamics\Thermodynamic\Thermodynamic\obj\Release\Thermodynamic.Form1.resources
+D:\Others\Документы\Проекты VB.NET\Thermodynamics\Thermodynamic\Thermodynamic\obj\Release\Thermodynamic.Help.resources
+D:\Others\Документы\Проекты VB.NET\Thermodynamics\Thermodynamic\Thermodynamic\obj\Release\Thermodynamic.Resources.resources
+D:\Others\Документы\Проекты VB.NET\Thermodynamics\Thermodynamic\Thermodynamic\obj\Release\Thermodynamic.vbproj.GenerateResource.cache
+D:\Others\Документы\Проекты VB.NET\Thermodynamics\Thermodynamic\Thermodynamic\obj\Release\Thermodynamic.vbproj.CoreCompileInputs.cache
+D:\Others\Документы\Проекты VB.NET\Thermodynamics\Thermodynamic\Thermodynamic\obj\Release\Thermodynamic.exe.manifest
+D:\Others\Документы\Проекты VB.NET\Thermodynamics\Thermodynamic\Thermodynamic\obj\Release\Thermodynamic.application
+D:\Others\Документы\Проекты VB.NET\Thermodynamics\Thermodynamic\Thermodynamic\obj\Release\Thermodynamic.exe
+D:\Others\Документы\Проекты VB.NET\Thermodynamics\Thermodynamic\Thermodynamic\obj\Release\Thermodynamic.xml
+D:\Others\Документы\Проекты VB.NET\Thermodynamics\Thermodynamic\Thermodynamic\obj\Release\Thermodynamic.pdb
